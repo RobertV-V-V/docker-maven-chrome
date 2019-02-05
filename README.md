@@ -9,7 +9,7 @@ Includes:
 * Chrome (latest)
 * Firefox (64.0)
 * ChromeDriver 2.43
-* GeckoDriver 0.24.0
+* GeckoDriver 0.22.0
 
 Available on [Docker Hub](https://hub.docker.com/r/rvanvas/maven-chrome-firefox/).
 
